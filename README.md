@@ -5,14 +5,23 @@ Este proyecto se centra en el análisis y la predicción de precios de viviendas
 
 ## Descripcion de columnas:
  -latitude: latitud de la ubicacion del bloque
+
  -longitude: longitud de la ubicacion del bloque
+
  -housing_median_age: mediana de edad de las propiedades en el bloque
+
  -total_rooms: habitaciones totales en el bloque
+
  -total_bedrooms: dormitorios totales en el bloque
+
  -population: cantidad de habitantes en el bloque
+
  -households: cantidad de hogares en el bloque
+
  -median_income: mediana de ingresos en el bloque
+
  -median_house_value: mediana de valor de las propiedades en el bloque
+ 
  -ocean_proximity: proximidad al oceano del bloque
 
 ## Objetivo
